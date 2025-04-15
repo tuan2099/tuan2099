@@ -16,6 +16,8 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,11 +33,12 @@
 ![cPanel](https://img.shields.io/badge/cPanel-E7741E?style=for-the-badge&logo=cpanel&logoColor=white)
 ![LocalWP](https://img.shields.io/badge/LocalWP-0065A4?style=for-the-badge&logo=local&logoColor=white)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuan2099&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganhtuan-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+### 📌 Highlight Skills
+- 🔄 REST API Integration (WordPress + Node.js)
+- ⚙️ Custom Plugin & Theme Development
+- 🧠 React UI for Admin Panels or Frontend Blocks
+- 🚀 Website Speed Optimization (PageSpeed >90)
+- 🛒 WooCommerce Store Setup & Customization
 
 ### ✍️ Blog Posts
 - Coming soon on [dev.to](https://dev.to/) or [my portfolio](https://yourportfolio.com)

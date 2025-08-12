@@ -10,7 +10,7 @@
 - 🛠️ I specialize in custom theme & plugin development, WooCommerce, and performance optimization.
 - 📚 Always learning more about backend development, REST APIs, and DevOps basics.
 - ✍️ In my free time, I write tech blogs and experiment with open source.
-- 📬 Feel free to reach me at: **tuanwpdev@gmail.com**
+- 📬 Feel free to reach me at: **hoangtuam09@gmail.com**
 
 ### 🛠 Tech Stack
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)

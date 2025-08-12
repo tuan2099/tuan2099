@@ -35,11 +35,15 @@
 ![LocalWP](https://img.shields.io/badge/LocalWP-0065A4?style=for-the-badge&logo=local&logoColor=white)
 
 ### 📌 Highlight Skills
-- 🔄 REST API Integration (WordPress + Node.js)
-- ⚙️ Custom Plugin & Theme Development
-- 🧠 React UI for Admin Panels or Frontend Blocks
-- 🚀 Website Speed Optimization (PageSpeed >90)
-- 🛒 WooCommerce Store Setup & Customization
+- 🔄 REST API Integration (**WordPress**, **React**, **Java Spring Boot**)
+- ⚙️ Custom WordPress **Plugin & Theme Development**
+- 🧠 **React.js** UI for Admin Panels, Gutenberg Blocks & Frontend Components
+- 📦 **Java Spring Boot** for Backend APIs & Microservices
+- 🚀 Website Performance Optimization (**Google PageSpeed >90**)
+- 🛒 **WooCommerce** Store Setup & Advanced Customization
+- 🗄 MySQL & Database Query Optimization
+- 🔐 Security Hardening & Backup
+
 
 ### ✍️ Blog Posts
 - Coming soon on [dev.to](https://dev.to/) or [my portfolio](https://yourportfolio.com)
